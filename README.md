@@ -23,3 +23,8 @@ Apaixonada por tecnologia e aprendizado constante
 ---
 
 Estou aberta a oportunidades de estágio e crescimento na área de tecnologia!
+
+---
+
+![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
