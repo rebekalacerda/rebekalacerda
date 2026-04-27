@@ -1,5 +1,9 @@
 # Olá! Eu sou a Rebeka 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350">
+</p>
+
 🎓 Estudante de Ciência de Dados e Inteligência Artificial  
 Técnica em Desenvolvimento de Sistemas  
 Apaixonada por tecnologia e aprendizado constante
@@ -24,7 +28,5 @@ Apaixonada por tecnologia e aprendizado constante
 
 Estou aberta a oportunidades de estágio e crescimento na área de tecnologia!
 
----
 
-![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
