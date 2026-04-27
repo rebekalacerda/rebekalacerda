@@ -14,11 +14,11 @@ Apaixonada por tecnologia e aprendizado constante
 
 ## 📊 Estatísticas do GitHub
 
-![RebekA GitHub stats](https://github-readme-stats.vercel.app/api?username=rebekawanda&show_icons=true&theme=radical)
+![RebekA GitHub stats](https://github-readme-stats.vercel.app/api?username=rebekalacerda&show_icons=true&theme=radical)
 
 ## 📈 Atividade
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=rebekawanda&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=rebekalacerda&theme=react-dark)
 
 ## 📫 Contato
 
