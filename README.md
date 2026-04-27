@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou a Rebeka 👋
 
-<!--
-**rebekawanda/rebekawanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados e Inteligência Artificial  
+Técnica em Desenvolvimento de Sistemas  
+Apaixonada por tecnologia e aprendizado constante
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql)
+
+## 📊 Estatísticas do GitHub
+
+![RebekA GitHub stats](https://github-readme-stats.vercel.app/api?username=rebekawanda&show_icons=true&theme=radical)
+
+## 📈 Atividade
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=rebekawanda&theme=react-dark)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rebeka-lacerda-8bb13926b)
+
+---
+
+Estou aberta a oportunidades de estágio e crescimento na área de tecnologia!
