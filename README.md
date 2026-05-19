@@ -14,7 +14,9 @@ Apaixonada por tecnologia e aprendizado constante
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebekalacerda&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebekalacerda&show_icons=true&theme=tokyonight"/>
+</p>
 
 ## 📈 Atividade
 
