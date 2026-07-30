@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350">
 </p>
 
-🎓 Estudante de Ciência de Dados e Inteligência Artificial  
-Técnica em Desenvolvimento de Sistemas  
+📚Estudante de Ciência de Dados e Inteligência Artificial  
+🎓Técnica em Desenvolvimento de Sistemas  
 Apaixonada por tecnologia e aprendizado constante
 
 ## 💻 Tecnologias
