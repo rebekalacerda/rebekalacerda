@@ -14,10 +14,7 @@ Apaixonada por tecnologia e aprendizado constante
 
 ## 📊 Estatísticas do GitHub
 
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=rebekalacerda&show_icons=true&theme=radical"
-  alt="GitHub Stats"
-/>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rebekalacerda&show_icons=true&theme=...)
 
 ## 📈 Atividade
 
