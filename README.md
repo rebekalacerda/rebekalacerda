@@ -18,7 +18,7 @@ Apaixonada por tecnologia e aprendizado constante
 
 ## 📈 Atividade
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rebekalacerda&theme=react-dark)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rebekalacerda&theme=react-dark)](https://github.com/rebekalacerda)
 
 ## 📫 Contato
 
